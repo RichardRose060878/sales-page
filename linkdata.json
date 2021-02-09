@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "title": "Home",
+      "URL": "/"
+    },
+    {
+      "title": "Courses",
+      "URL": "/courses"
+    },
+    {
+      "title": "About",
+      "URL": "/about"
+    },
+    {
+      "title": "Contact",
+      "URL": "/contact"
+    },
+    {
+      "title": "Privacy",
+      "URL": "/privacy"
+    }
+  ]
+}
